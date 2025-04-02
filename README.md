@@ -55,6 +55,13 @@ in the Indian grid, which are/ will be predominantly based on fossil fuels.
 _______________
 PRIOR HISTORY
 
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 4930, as well as Gold Standard (GS) with reference number 4425. The crediting
+period of this project under CDM & GS is 19/07/2011 to 18/07/2021. PP seeks verification under
+UCR from 01/08/2021 onwards, i.e., the crediting period for UCR starts from 01/08/2021 to
+31/12/2031. Hence, there is no double counting for the said project under UCR.
+________________
+
 UNFCCC CDM Project 4930 : Vaayu India Wind Power Project in Tamilnadu
 
 Registration Date	19 Jul 11 (Date of registration action 10 Oct 11)   
@@ -130,3 +137,31 @@ CERs requested from 01 Jan 2013 until 31 December 2020: 94644
 
 Serial Range: Block start: IN-5-283788258-2-2-0-4930  ---    Block end: IN-5-283882901-2-2-0-4930
 ________________
+GS ID: 4425
+
+Crediting Period: Apr 15, 2014 ― Jul 18, 2021
+
+GS Issuance List
+________
+2021 :	48879 VER
+_______
+2020:	92751 VER
+_________
+2019: 84092 VER
+__________
+2018: 76459 VER
+__________	
+2017: 	86113 VER
+__________
+2016:	80623 VER
+_______
+2016: 	931 VER
+__________
+2015: 	8297 VER
+_________
+2015: 10406 VER
+______
+2014: 60075 VER
+______
+
+
